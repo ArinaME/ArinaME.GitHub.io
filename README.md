@@ -38,7 +38,7 @@
 
 <p>We also sometimes use third party service providers to update your details using publicly available information (such as NZ Post's 'Change of Address' service).</p>
 
-<h2>If You Choose Not to provid Information</h2>
+<h2>If You choose not to provide Information</h2>
 
 <p>You can choose not to provide some information to us. However, this may prevent us from being able to do some things.</p>
 
