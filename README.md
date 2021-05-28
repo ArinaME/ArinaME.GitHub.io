@@ -30,9 +30,27 @@
 <li>Find and prevent fraud</li>
 </ul>
 
-<h2>Log Files</h2>
+<h2>HOW WE COLLECT PERSONAL INFORMATION</h2>
 
-<p>WWF follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
+<p>In most cases, we collect personal information directly from you. Sometimes, (with your prior consent) other organisations may provide us with your personal information.</p>
+
+<p>By providing us with your personal information, you accept this privacy policy and authorise us to collect, store and process your information as outlined in this policy.</p>
+
+<p>We also sometimes use third party service providers to update your details using publicly available information (such as NZ Post's 'Change of Address' service).</p>
+
+<h2>HOW WE KEEP YOUR INFORMATION SAFE</h2>
+
+<p>We keep your information safe by storing it in secure contact relationship management software wherever possible and only allowing relevant staff to access it when they need to for their work.</p>
+
+<p>Your data is housed on databases and servers, including cloud storage services. It may also be stored temporarily on local devices (like computers, tablets or phones), but such local copies should be promptly destroyed when no longer needed.</p>
+
+<p>We secure access to these servers and services as much as is possible and practical. We receive regular support from WWF-International to ensure that our data security is appropriate and up to date.</p>
+
+<p>Sometimes, our storage or other providers may operate their own privacy policies. Where applicable, we have reviewed these to ensure that they comply with or exceed New Zealand law. However, we accept no liability for any breach or failure by these providers.</p>
+
+<p>We may change our partner providers to ensure greater security or functionality. Examples of such providers include Google, Facebook, Microsoft, Storbie, Oracle, The Rocket Science Group, and Infosoft.</p>
+
+<p>Our donation and online commerce pages are designed to be secure and prevent unauthorised access. Whenever you provide payment information to us, all storage and transfer of your financial details by WWF and our payment providers is Payment Card Industry Data Security Standards (PCI DSS) compliant.</p>
 
 <h2>Cookies and Web Beacons</h2>
 
