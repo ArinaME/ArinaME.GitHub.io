@@ -30,7 +30,7 @@
 <li>Find and prevent fraud</li>
 </ul>
 
-<h2>HOW WE COLLECT PERSONAL INFORMATION</h2>
+<h2>How We collect Personal Information</h2>
 
 <p>In most cases, we collect personal information directly from you. Sometimes, (with your prior consent) other organisations may provide us with your personal information.</p>
 
@@ -38,7 +38,7 @@
 
 <p>We also sometimes use third party service providers to update your details using publicly available information (such as NZ Post's 'Change of Address' service).</p>
 
-<h2>HOW WE KEEP YOUR INFORMATION SAFE</h2>
+<h2>How We keep Your Information Safe</h2>
 
 <p>We keep your information safe by storing it in secure contact relationship management software wherever possible and only allowing relevant staff to access it when they need to for their work.</p>
 
