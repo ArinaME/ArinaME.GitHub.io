@@ -38,6 +38,14 @@
 
 <p>We also sometimes use third party service providers to update your details using publicly available information (such as NZ Post's 'Change of Address' service).</p>
 
+<h2>If You Choose Not to provid Information</h2>
+
+<p>You can choose not to provide some information to us. However, this may prevent us from being able to do some things.</p>
+
+<p>For example, if you choose not to enter your full legal name, phone number, or email address in a petition, we may be not be able to adequately identify you to include you as an individual signatory in the petition we deliver to the government.</p>
+
+<p>We may also be unable to contact you to give you updates about our work.</p>
+
 <h2>How We keep Your Information Safe</h2>
 
 <p>We keep your information safe by storing it in secure contact relationship management software wherever possible and only allowing relevant staff to access it when they need to for their work.</p>
